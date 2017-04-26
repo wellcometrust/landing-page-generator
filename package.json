@@ -1,6 +1,6 @@
 {
   "name": "wellcome-landing-page-generator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "generates a simple Wellcome-branded landing page with a list of links",
   "main": "index.js",
   "scripts": {
