@@ -2,9 +2,10 @@
 
 Generates a simple Wellcome-branded HTML landing page with a list of links. [Here's](https://github.com/wellcometrust/landing-page-generator/blob/master/example-data.json) an example JSON file.
 
-## Dependencies
+## Requirements
 
 `node` 7.6.0+
+`npm`
 
 ## Installation
 
