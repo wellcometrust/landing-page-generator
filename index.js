@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require('fs');
 const path = require('path');
 const njk = require('nunjucks');
@@ -17,7 +19,7 @@ const getData = args => new Promise(resolve => {
   }
 });
 
-const generate = data => njk.render('template.njk', data);
+const generate = data => njk.render(path.resolve(__dirname, 'template.njk'), data);
 
 module.exports = generate;
 
