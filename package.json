@@ -1,0 +1,23 @@
+{
+  "name": "wellcome-landing-page-generator",
+  "version": "0.1.0",
+  "description": "generates a simple Wellcome-branded landing page with a list of links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellcometrust/landing-page-generator.git"
+  },
+  "author": "Jakub Fiala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wellcometrust/landing-page-generator/issues"
+  },
+  "homepage": "https://github.com/wellcometrust/landing-page-generator#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "nunjucks": "^3.0.0"
+  }
+}
