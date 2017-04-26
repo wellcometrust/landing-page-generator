@@ -1,6 +1,10 @@
 # Wellcome Landing Page Generator
 
-Generates a simple Wellcome-branded HTMl landing page with a list of links.
+Generates a simple Wellcome-branded HTML landing page with a list of links.
+
+## Dependencies
+
+`node` 7.6.0+
 
 ## Installation
 
